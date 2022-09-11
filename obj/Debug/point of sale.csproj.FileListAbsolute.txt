@@ -1,0 +1,21 @@
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\point of sale.exe.config
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\point of sale.exe
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\point of sale.pdb
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\MetroFramework.dll
+C:\Users\DELL\source\repos\point of sale\point of sale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Properties.Resources.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.csproj.CopyComplete
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.exe
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point of sale.pdb
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Form1.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.DashboardForm.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.products.DefineProductScreen.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.products.ManageProduct.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.products.Productrecord.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.CustomersF.NewCustomerForm.resources
+C:\Users\DELL\source\repos\point of sale\point of sale\obj\Debug\point_of_sale.Screens.CustomersF.CustomerRecordForm.resources
